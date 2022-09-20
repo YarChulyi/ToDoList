@@ -3,4 +3,4 @@
  
  https://yarchulyi.github.io/ToDoList/  
  
- Built with HTML, CSS, JavaScript
+ Fully functional to-do App. Build with HTML, CSS, JavaScript
